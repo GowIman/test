@@ -1,0 +1,14 @@
+Even or Odd:
+
+number = int(input("Which number do 
+if number %2 ==0:                   
+    print("This is an Even Number") 
+else:                               
+    print("This is an odd number.") 
+
+Output:
+"C:\Users\Lenovo Flex 5\AppData\Local\Programs\Python\Python39\python.exe" "C:/Users/Lenovo Flex 5/Documents/Python/Helloworld.py"
+Which number do you want check?7
+This is an odd number.
+
+Process finished with exit code 0
